@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.315,D:\Borland\WORK.D10\Unit1.dfm=D:\Borland\WORK.D10\RegionFromPicture\test\uTest.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,D:\Borland\WORK.D10\Project1.dproj=D:\Borland\WORK.D10\RegionFromPicture\test\Test.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,=D:\Borland\WORK.D10\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.840,=D:\Borland\WORK.D10\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,D:\Borland\WORK.D10\Unit1.pas=D:\Borland\WORK.D10\RegionFromPicture\test\uTest.pas</Transaction>
+  </Transactions>
+</BorlandProject>
